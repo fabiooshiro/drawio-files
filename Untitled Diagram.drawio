@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T09:30:01.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="gJt_hfbxMmggLOD2cGvP" type="github"><diagram id="IOoN1e3W6XTf8DXaCaKb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-11T09:57:02.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="5ZvOWKuJ68hJAN3aVJs0" type="github">
+  <diagram id="8-NOSkkDvziwnvErX-YV" name="Page-1">
+    <mxGraphModel dx="754" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmKbl3szhKVR4k7vKKBA-2" target="MmKbl3szhKVR4k7vKKBA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-2" value="Cause" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="193" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmKbl3szhKVR4k7vKKBA-3" target="MmKbl3szhKVR4k7vKKBA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-3" value="Problem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmKbl3szhKVR4k7vKKBA-4" target="MmKbl3szhKVR4k7vKKBA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-4" value="Solved Vision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-5" value="The way to solve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="353" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-6" value="Crowd Funding" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="116" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="233" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-8" value="* Buddhist inspiration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="453" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-12" value="Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="73" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-13" value="Shareholders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-14" value="Persona" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="53" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-18" value="Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="133" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-22" value="DRE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-23" value="Order Book" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-24" value="Profit Sharing&lt;br&gt;(dividend)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-25" value="DAO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-27" value="Persona" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="40" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-28" value="Persona" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="591.5" y="63" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-29" value="Persona" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="601.5" y="73" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-30" value="Persona" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="648.5" y="65" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-34" value="ICO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="216" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-35" value="DApp version manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-19" value="DApp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-36" value="ZC&lt;br&gt;Zupo Coin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MmKbl3szhKVR4k7vKKBA-37" value="Idea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="73" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
